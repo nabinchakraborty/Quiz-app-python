@@ -1,0 +1,20 @@
+{
+   "ques" : [
+    "1. Which one of the following has the highest precedence in the expression?",
+    "2. Which of the following is the truncation division operator in Python?",
+    "3. Which is the special symbol used in python to add comments?",
+    "4. Who developed Python Programming Language?",
+    "5. Is Python case sensitive when dealing with identifiers?"
+    ],
+
+    "options" : [
+    ["Addition", "Multiplication", "Exponential", "Parentheses"],
+    ["|","//","/","%"],
+    ["$", "//", "/*...*/", "#"],
+    ["Wick van Rossum","Rasmus Lerdorf","Guido van Rossum","Niene Stom"],
+    ["no", "yes", "machine dependent", "None of the mentioned"]
+    ],
+
+    "ans" : [ 4, 2, 4, 3, 1]
+
+}
